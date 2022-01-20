@@ -1,6 +1,6 @@
 {
-  "name": "helmi/strategy",
-  "description": "Stategy design pattern exemple",
+  "name": "helmi/command",
+  "description": "Command design pattern exemple",
   "license": "MIT",
   "authors": [
     {
